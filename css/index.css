@@ -1,0 +1,18 @@
+.window_Box{  width:400px;  height:200px;box-shadow: 0 0 12px rgba(0,0,0,.5);  border: 1px solid #000;  position: absolute; background-color:#fff; }
+.window_closeBtn{  padding:8px 10px;cursor: pointer;text-align: center;position: absolute;top:0;right:0;color:#fff;background-color:green;}
+.window_okBtn{width:100px;height:30px;text-align:center;}
+.window_header{color:#fff;background-color:#000;text-align:center;font-size:14px;padding:10px;cursor: move}
+.window_body{padding:10px;}
+.window_footer{position: absolute;bottom:15px;text-align:center;width:100%}
+.modal_dialog{width:100%;height:100%;position:absolute;left:0;top:0;background-color:rgba(0,0,0,.3)}
+.window_cancelBtn{margin-left:30px;width:50px;height:30px;}
+.window_confirmBtn{width:50px;height:30px;}
+
+.window_promptInputWrapper{text-align:center;}
+
+/*window_skin_a*/
+.window_skin_a.window_Box{}
+.window_skin_a .window_header{background-color:red;}
+.window_skin_a .window_body{color:blue}
+.window_skin_a .window_CloseBtn{border-radius: 50%}
+.window_skin_a .window_okBtn{left:70%}
