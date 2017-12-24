@@ -10,6 +10,6 @@
 <button id="btn2">点我点我</button>
 <button id="btn3">点我点我</button>
 <button id="btn4">还不点我</button>
-<script src="js/require.js" data-main="js/main"></script>
+<script src="js/require%20.js" data-main="js/main"></script>
 </body>
 </html>
